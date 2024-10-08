@@ -1,0 +1,19 @@
+uuid: 60f703cf-4a20-4ecb-a843-e0e6b6514863
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_elias
+    - node.type.article
+id: node.article.field_elias
+field_name: field_elias
+entity_type: node
+bundle: article
+label: elias
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
